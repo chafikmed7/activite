@@ -1,0 +1,18 @@
+p, em
+{
+    color: blue;
+    font-size: 16px;
+    font-family: Trebuchet MS;
+    font-style: oblique;
+    text-align: center;
+}
+h1
+{
+    color: green;
+    font-size: 28px;
+    font-family: Trebuchet MS;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline;
+    align-content: center; 
+}
